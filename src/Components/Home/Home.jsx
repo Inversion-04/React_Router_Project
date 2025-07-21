@@ -65,19 +65,19 @@ export default function Home() {
             </section>
             {/* Features Section */}
 <section className="py-16 bg-gray-50">
-  <h2 className="text-3xl font-bold text-center mb-10">Why Choose Our Toolkit?</h2>
+  <h2 className="text-3xl font-bold text-center mb-10 text-black">Why Choose Our Toolkit?</h2>
   <div className="grid sm:grid-cols-3 gap-8 px-6 max-w-6xl mx-auto">
     <div className="p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-      <h3 className="text-xl font-semibold mb-2">⚡ Lightning Fast</h3>
+      <h3 className="text-xl font-semibold mb-2 text-black">⚡ Lightning Fast</h3>
       <p className="text-gray-600">Optimized for performance with minimal setup and blazing-fast builds.</p>
     </div>
     <div className="p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-      <h3 className="text-xl font-semibold mb-2">🧱 Modular Design</h3>
+      <h3 className="text-xl font-semibold mb-2 text-black">🧱 Modular Design</h3>
       <p className="text-gray-600">Pre-built components help you structure and scale projects efficiently.</p>
     </div>
     <div className="p-6 bg-white rounded-lg shadow hover:shadow-md transition">
-      <h3 className="text-xl font-semibold mb-2">📦 Modern Tech Stack</h3>
-      <p className="text-gray-600">Built with React, Vite, Tailwind — fully customizable and production-ready.</p>
+      <h3 className="text-xl font-semibold mb-2 text-black">📦 Modern Tech Stack</h3>
+      <p className="text-black">Built with React, Vite, Tailwind — fully customizable and production-ready.</p>
     </div>
   </div>
 </section>
